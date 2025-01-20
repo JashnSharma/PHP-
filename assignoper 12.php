@@ -22,6 +22,6 @@
     $x = 100;
     $x %= 15;
     echo "$x <br>"; 
-echo("This program is written and executed by Diya Arora (2220100252)");
+echo("This program is written and executed by Jashn Sharma (2220100247)");
 
 ?>
