@@ -14,6 +14,6 @@ for ($i = 1; $i < count($array); $i++) {
 
 echo "The biggest number in the array is: " . $biggestNumber;
 echo"<br>";
-echo("This program is written and executed by Diya Arora (2220100252)");
+echo("This program is written and executed by Jashn Sharma (2220100247)");
 ?>
 
