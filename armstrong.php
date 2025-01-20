@@ -17,5 +17,6 @@ if ($sum == $originalNumber) {
     echo "$originalNumber is an Armstrong number.";
 } else {
     echo "$originalNumber is not an Armstrong number.";
+    echo("This program is written and executed by Jashn Sharma (2220100247)");
 }
 ?>
