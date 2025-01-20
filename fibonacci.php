@@ -8,5 +8,6 @@ for ($i = 3; $i <= $terms; $i++) {
     echo $nextTerm . " ";
       $a = $b;
     $b = $nextTerm;
+    echo("This program is written and executed by Jashn Sharma (2220100247)");
 }
 ?>
