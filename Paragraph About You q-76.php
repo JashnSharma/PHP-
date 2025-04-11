@@ -6,5 +6,5 @@ $text .= "This program is written by Kritika ERP-067.";
 fwrite($file, $text);
 fclose($file);
 echo "File 'about_me.txt' has been created successfully.<br>";
-echo "This program is written by Kritika ERP-067.";
+echo "This Program is written by JASHN SHARMA, 2220100247";
 ?>
