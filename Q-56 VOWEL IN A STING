@@ -20,5 +20,5 @@ for ($i = 0; $i < strlen($text); $i++) {
 echo "The number of vowels in the string is: " . $vowelCount;
 echo "<br><br>";
 
-echo "This program is written by KRITIKA ERP-067";
+echo "This Program is written by JASHN SHARMA, 2220100247";
 ?>
