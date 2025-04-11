@@ -115,6 +115,6 @@ if (isset($success)) {
 
   <input type="submit" value="Register">
 </form>
-<h6> This program is written by KRITIKA ERP-067" </h6>
+<h6> This program is written by jashn ERP-048" </h6>
 </body>
 </html>
