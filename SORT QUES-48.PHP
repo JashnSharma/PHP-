@@ -8,7 +8,7 @@ $clength = count($cars); // Getting the length of the array
 for ($x = 0; $x < $clength; $x++) { 
     echo $cars[$x]; 
     echo "<br>"; 
-    echo "This program is written by KRITIKA ERP-067<br>";
+  echo "This Program is written by JASHN SHARMA, 2220100247";
 }
 ?>
 </body>
