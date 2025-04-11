@@ -19,7 +19,7 @@ $salaries['twinkle'] = "low";
 echo "Salary of Roshan is " . $salaries['roshan'] . "<br />";
 echo "Salary of Twinkle is " . $salaries['twinkle'] . "<br />";
 echo "Salary of Zara is " . $salaries['zara'] . "<br />";
-echo"this program is written by kritika erp-067";
+echo "This Program is written by JASHN SHARMA, 2220100247";
 
 ?>
 </html>
