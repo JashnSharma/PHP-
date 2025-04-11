@@ -36,7 +36,7 @@ echo"<br>";
     
     $rec->showResult();
 echo"<br>";
-echo"This program is written by kritika erp-067";
+echo "This Program is written by JASHN SHARMA, 2220100247";
 
 
 ?>
