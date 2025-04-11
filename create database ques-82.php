@@ -22,6 +22,6 @@ if ($conn->query($sql) === TRUE) {
 
 $conn->close();
 
-echo "This Program is written by Kritika, 0221BCA067";
+echo "This Program is written by JASHN SHARMA, 2220100247";
 
 ?>
