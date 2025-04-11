@@ -11,7 +11,7 @@ function printNumber($n) {
 // Call the function with the desired number
 printNumber(5);  // Change this number to print a different number
 echo "<br>";
-    echo "This program is written by KRITIKA ERP-067";
+    echo "This Program is written by JASHN SHARMA, 2220100247";
 
 
 ?>
