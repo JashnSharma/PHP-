@@ -32,5 +32,5 @@ echo "Position of 'World' in the greeting: " . strpos($greeting, "World");
 echo "<br>";
 
 // Attribution line
-echo "<br><strong>This code is written by KRITIKA ERP-067</strong>";
+echo "<br><strong>This code is written by jashn ERP-048</strong>";
 ?>
