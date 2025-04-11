@@ -18,7 +18,7 @@
     }
 
     // Adding the requested message
-    echo "<br>This program is written by KRITIKA ERP-067<br>";
+    echo "<br>This program is written by jashn ERP-048<br>";
     ?>
 </body> 
 </html>
