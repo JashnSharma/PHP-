@@ -9,6 +9,5 @@ function countDigits($number) {
 $number = 12345;  // Change this to any number you want
 echo "The number of digits in $number is: " . countDigits($number);
 echo "<br>";
-    echo "This program is written by KRITIKA ERP-067";
-
+  echo "This Program is written by JASHN SHARMA, 2220100247";
 ?>
