@@ -1,6 +1,6 @@
 <?php
 // Original string
-$text = "program written by KRITIKA!";
+$text = "program written by JASHN!";
 
 // Capitalize the first character
 $ucfirstText = ucfirst($text);
