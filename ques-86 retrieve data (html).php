@@ -31,6 +31,6 @@
         echo "0 results";
     }
     $conn->close();
-            echo "This Program is written by kritika, 0221BCA067"
+            echo "This Program is written by JASHN SHARMA, 2220100247";
 
 ?>
