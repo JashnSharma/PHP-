@@ -1,6 +1,6 @@
 <?php
 
-$text = "Hello, Kritika! Welcome to PHP programming.";
+$text = "Hello, JASHN! Welcome to PHP programming.";
 
 
 $text = strtolower($text);
