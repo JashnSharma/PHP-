@@ -18,7 +18,7 @@ echo "<p>Current Unix Timestamp: $currentTime</p>";
 echo "<p>Current Date and Time: " . date("Y-m-d H:i:s", $currentTime) . "</p>";
 
 // Author line
-echo "<p>This program is written by <strong>KRITIKA ERP-067</strong></p>";
+echo "<p>This program is written by <strong>JASHN ERP-048</strong></p>";
 ?>
 
 </body>
