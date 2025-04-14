@@ -18,5 +18,5 @@ echo "Sunrise time: " . $sunrise . "<br>";
 echo "Sunset time: " . $sunset . "<br>";
 
 // Author line
-echo "This program is written by KRITIKA ERP-067";
+echo "This Program is written by JASHN SHARMA, 2220100247";
 ?>
