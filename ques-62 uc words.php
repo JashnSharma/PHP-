@@ -1,6 +1,6 @@
 <?php
 // Original string
-$text = " program written by Kritika!";
+$text = " program written by JASHN!";
 
 // Capitalize the first letter of each word
 $ucwordsText = ucwords($text);
