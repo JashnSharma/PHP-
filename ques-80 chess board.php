@@ -40,7 +40,7 @@ for ($row = 1; $row <= 8; $row++) {
 }
 
 echo "</table>";
-echo "<p style='text-align:center;'>This program is written by KRITIKA ERP-067</strong></p>";
+echo "<p style='text-align:center;'>This program is written by JASHN ERP-048</strong></p>";
 ?>
 
 </body>
