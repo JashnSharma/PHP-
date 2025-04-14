@@ -19,6 +19,6 @@
     {
         echo "Value is $value\n";
     }
-echo"This program is written by KRITIKA ERP-067";
+echo "This Program is written by JASHN SHARMA, 2220100247";
     
 ?>
