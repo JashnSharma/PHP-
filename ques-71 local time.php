@@ -22,7 +22,7 @@ echo "<p>Day: " . $local['tm_mday'] . "</p>";
 echo "<p>Month: " . ($local['tm_mon'] + 1) . "</p>"; // tm_mon is 0-based
 echo "<p>Year: " . ($local['tm_year'] + 1900) . "</p>"; // tm_year is years since 1900
 
-echo "<p>This program is written by <strong>KRITIKA ERP-067</strong></p>";
+echo "<p>This program is written by <strong>JASHN ERP-048</strong></p>";
 ?>
 
 </body>
