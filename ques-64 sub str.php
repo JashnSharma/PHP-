@@ -10,5 +10,5 @@ echo "Original Text: " . $text . "<br>";
 echo "Substring (from position 11, length 3): " . $substring . "<br>";
 
 // Add author line
-echo "This program is written by KRITIKA ERP-067";
+echo "This Program is written by JASHN SHARMA, 2220100247";
 ?>
