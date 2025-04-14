@@ -24,7 +24,7 @@ if (isset($_POST['submit'])) {
     echo "<p>Years: " . $age->y . "</p>";
     echo "<p>Months: " . $age->m . "</p>";
     echo "<p>Days: " . $age->d . "</p>";
-    echo "<p>This program is written by <strong>KRITIKA ERP-067</strong></p>";
+    echo "<p>This program is written by <strong>JASHN ERP-048</strong></p>";
 }
 ?>
 
