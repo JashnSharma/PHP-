@@ -8,5 +8,5 @@ if ($file) {
 } else {
     echo "Error opening the file.";
 }
-echo "<br>This program is written by Kritika ERP-067.";
+echo "This Program is written by JASHN SHARMA, 2220100247";
 ?>
