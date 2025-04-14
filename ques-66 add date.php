@@ -10,5 +10,5 @@ echo "Current Date: " . $currentDate . "<br>";
 echo "Date after 10 days: " . $futureDate . "<br>";
 
 // Add author line
-echo "This program is written by KRITIKA ERP-067";
+echo "This Program is written by JASHN SHARMA, 2220100247";
 ?>
