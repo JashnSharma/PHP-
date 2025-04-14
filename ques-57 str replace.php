@@ -9,5 +9,5 @@ $replacedText = str_replace("world", "universe", $text);
 echo $replacedText;
 
 // Add author line
-echo "<br>This program is written by KRITIKA ERP-067";
+echo "This Program is written by JASHN SHARMA, 2220100247";
 ?>
