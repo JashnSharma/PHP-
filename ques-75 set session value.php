@@ -3,8 +3,8 @@ session_start(); // Start the session
 
 // Set session variable if not already set
 if (!isset($_SESSION["user"])) {
-    $_SESSION["user"] = "Kritika";
-    $message = "Session variable 'KRITIKA' is now set.";
+    $_SESSION["user"] = "JASHN";
+    $message = "Session variable 'JASHN' is now set.";
 } else {
     $message = "Welcome back, " . $_SESSION["user"];
 }
