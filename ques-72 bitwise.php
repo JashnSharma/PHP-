@@ -21,7 +21,7 @@ echo "<p>~a = " . (~$a) . " (Bitwise NOT)</p>";              // ~0101 = 1010 (in
 echo "<p>a << 1 = " . ($a << 1) . " (Left Shift)</p>";       // 0101 << 1 = 1010 => 10
 echo "<p>a >> 1 = " . ($a >> 1) . " (Right Shift)</p>";      // 0101 >> 1 = 0010 => 2
 
-echo "<p>This program is written by <strong>KRITIKA ERP-067</strong></p>";
+echo "<p>This program is written by <strong>JASHN ERP-048</strong></p>";
 ?>
 
 </body>
