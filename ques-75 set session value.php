@@ -20,7 +20,7 @@ if (!isset($_SESSION["user"])) {
 <h2>PHP Session Demo</h2>
 <p><?php echo $message; ?></p>
 
-<p>This program is written by <strong>KRITIKA ERP-067</strong></p>
+<p>This program is written by <strong>JASHN ERP-048</strong></p>
 
 </body>
 </html>
