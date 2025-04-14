@@ -10,5 +10,5 @@ echo "Text: " . $text . "<br>";
 echo "Position of 'PHP': " . $position . "<br>";
 
 // Add author line
-echo "This program is written by KRITIKA ERP-067";
+echo "This Program is written by JASHN SHARMA, 2220100247";
 ?>
