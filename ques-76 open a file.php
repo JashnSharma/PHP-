@@ -20,7 +20,7 @@ if ($file) {
     echo "<p>Unable to open the file!</p>";
 }
 
-echo "<p>This program is written by KRITIKA ERP-067</strong></p>";
+echo "This Program is written by JASHN SHARMA, 2220100247";
 ?>
 
 </body>
