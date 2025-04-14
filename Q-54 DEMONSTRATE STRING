@@ -1,7 +1,7 @@
 <?php
 // String declaration
 $greeting = "Hello, World!";
-$name = "Kritika";
+$name = "JASHN";
 
 // String concatenation
 echo $greeting . " My name is " . $name . ".";  
